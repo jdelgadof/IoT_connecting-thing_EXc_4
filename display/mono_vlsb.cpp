@@ -1,7 +1,7 @@
 //
 // Created by Keijo Länsikunnas on 18.2.2024.
 //
-// This based on MicroPython modframebuf.c
+// This is based on MicroPython modframebuf.c
 // modframebuf.c licence attached below
 /*
  * This file is part of the MicroPython project, http://micropython.org/
